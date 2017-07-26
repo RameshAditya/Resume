@@ -1,2 +1,2 @@
-# Resume
-My background and skills
+# Résumé
+A repository containing my background information and skill set.
