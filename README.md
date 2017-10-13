@@ -1,4 +1,71 @@
-# Resume
-A repository containing my background information and skill set.
+L-Block, Men’s Hostel,
+VIT University, Vellore
 
-For more on me, check out "Algorithmic Memoirs" -- my blog, available at - www.rameshaditya.wordpress.com
+# ADITYA RAMESH
+
+(+91) 9600013822
+www.rameshaditya.wordpress.com
+github.com/RameshAditya
+linkedin.com/in/adityaramesh1998/
+
+## EXPERIENCE
+
+*Algorithm Blogger* | **Algorithmic Memoirs** | *August 2017 - Present*
+* Currently host a blog “Algorithmic Memoirs” entirely devoted to the exploration of data structures and
+algorithms – rameshaditya.wordpress.com
+* Hosted and maintained with the intent of reinforcing my technical grasp of algorithms and data structures,
+spreading my insights and experiences, and connecting with like-minded experts, and groups.
+-----------------------------------------------------------------------------------------------------------------
+*Software Engineering Intern* | **Deloitte** | *May 2017 - July 2017*
+* Interned in the Information Management/Analytics Division of the firm.
+* Automated the process of writing program documentation of C/C++/Java code by designing an algorithm that
+applied constructive ranking heuristics to infer the importance of modules of the code and elaborated accordingly.
+* Analyzed industry verticals to identify untapped potential in their fields, and estimated & predicted the
+feasibility of potential future industrial trends by interpreting insights from published data.
+-----------------------------------------------------------------------------------------------------------------
+*Open Source Developer* | **Zulip** | *May 2017*
+* Zulip is an FOSS organization affiliated with Google’s Summer of Code, whose product is a group chat system.
+* Designed Django templates for Zulip’s emails to its users which notified them of relevant or important
+updates or notifications, as part of a larger project of standardizing Zulip’s look and feel.
+* Pull Request available at - https://github.com/zulip/zulip/pull/
+-----------------------------------------------------------------------------------------------------------------
+*Sport Programmer* | **Algorithmic Contest Platforms** | *November 2016 - Present*
+* Ranked at the top 3.06 percentile globally on HackerRank.
+* Ranked at the top 3.45 percentile globally on CodeChef.
+* Ranked at the top 3.58 percentile globally on Sphere Online Judge.
+* Profile links and submissions - github.com/RameshAditya/Competitive-Programming
+-----------------------------------------------------------------------------------------------------------------
+
+## EDUCATION
+*Tamil Nadu, IN* | **Vellore Institute of Technology** | *June 2016 – June 2020*
+* B. Tech. in Computer Science & Engineering, CGPA: 9.58 out of 10.
+* Coursework: Computer Architecture & Organization; Data Structures & Algorithms; Database Management
+Systems; Discrete Mathematics & Graph Theory; Human Computer Interaction; Image Processing; Operating
+Systems; Object Oriented Programming; Statistics;
+* AISSCE: 472 on 500 (June 2016); SSLC: 10.0 on 10 (June 2014);
+* IIT-JEE Advanced: National Rank 14,576 from 1.2 million students. Top 1.2 %tile in Physics, Chemistry & Math
+* National Mathematics Talent Contest: Four time national finalist; Shortlisted for AMTI special training camp.
+-----------------------------------------------------------------------------------------------------------------
+
+## PROJECTS
+* **Web WhatsApp Bot** (July 2017). Designed a bot that automated the process of greeting selected contacts
+with “Good Morning” messages over Web WhatsApp on a daily basis. Python, Selenium
+* **XOBot** (June 2017). Designed an AI that never loses in a game of Tic-Tac-Toe (Noughts and Crosses) that
+plays in a deterministic manner and uses a backtracking, depth-optimized minimax algorithm. C++
+* **Dynamic Hybrid Data Grid** (March 2017). Developed a data structure that facilitated realtime R/W of data
+into a grid, and brought average search complexity down from O(n) to O(√n) by 2D maneuvering. C++
+-----------------------------------------------------------------------------------------------------------------
+
+## ADDITIONAL EXPERIENCE AND AWARDS
+* **National Programming Aptitude Test, 100/100:** Solved 8 out of 8 questions, in the NPAT conducted by ACM,
+hosted by NPTEL and sponsored by Google.
+* **Make-a-thon, The Blueprints Club, 1st Place:** Won the TBC Make-a-thon by pitching a business model & MVP
+to remould waste plastic obtained from campus trash bins and sell as LEGO alternatives.
+* **Media Club, PSBB Mirror, Chief Editor:** Was assigned the role of Chief Editor for my school’s Media Club.
+Corresponded with a local printing press (Makkal Kural), & managed 40 students in a high-stress environment to
+print newspapers reporting the events of the school’s Quadrennial Project.
+-----------------------------------------------------------------------------------------------------------------
+
+## Languages and Technologies
+* **Advanced:** C/C++ (STL); **Intermediate:** Python; MySQL; **Basic:** Git; R; Django; Vim;
+
