@@ -1,18 +1,18 @@
+# ADITYA RAMESH
 L-Block, Men’s Hostel,
 VIT University, Vellore
 
-# ADITYA RAMESH
-
-(+91) 9600013822
-www.rameshaditya.wordpress.com
-github.com/RameshAditya
-linkedin.com/in/adityaramesh1998/
+### DIGITAL FOOTPRINT:
+* (+91) 9600013822
+* www.rameshaditya.wordpress.com
+* www.github.com/RameshAditya
+* www.linkedin.com/in/adityaramesh1998/
 
 ## EXPERIENCE
 
 *Algorithm Blogger* | **Algorithmic Memoirs** | *August 2017 - Present*
 * Currently host a blog “Algorithmic Memoirs” entirely devoted to the exploration of data structures and
-algorithms – rameshaditya.wordpress.com
+algorithms – www.rameshaditya.wordpress.com
 * Hosted and maintained with the intent of reinforcing my technical grasp of algorithms and data structures,
 spreading my insights and experiences, and connecting with like-minded experts, and groups.
 -----------------------------------------------------------------------------------------------------------------
@@ -33,7 +33,7 @@ updates or notifications, as part of a larger project of standardizing Zulip’s
 * Ranked at the top 3.06 percentile globally on HackerRank.
 * Ranked at the top 3.45 percentile globally on CodeChef.
 * Ranked at the top 3.58 percentile globally on Sphere Online Judge.
-* Profile links and submissions - github.com/RameshAditya/Competitive-Programming
+* Profile links and submissions - www.github.com/RameshAditya/Competitive-Programming
 -----------------------------------------------------------------------------------------------------------------
 
 ## EDUCATION
