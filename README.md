@@ -48,6 +48,9 @@ Systems; Object Oriented Programming; Statistics;
 -----------------------------------------------------------------------------------------------------------------
 
 ## PROJECTS
+* **PetPal (HackHarvard’17)** (October 2017). Android app that sends image, location credentials to Firebase 
+database, and marks location on a world map, to ID locations of lost animal sightings. Android, Node.js, JavaScript, 
+Firebase, HTML, CSS, Google Maps API (Marker Clustering + Reverse Geocoding), Google Cloud Platform
 * **Web WhatsApp Bot** (July 2017). Designed a bot that automated the process of greeting selected contacts
 with “Good Morning” messages over Web WhatsApp on a daily basis. Python, Selenium
 * **XOBot** (June 2017). Designed an AI that never loses in a game of Tic-Tac-Toe (Noughts and Crosses) that
