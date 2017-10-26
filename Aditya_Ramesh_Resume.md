@@ -1,18 +1,18 @@
 # ADITYA RAMESH
 L-Block, Men’s Hostel,
-VIT University, Vellore
+VIT University, Vellore - 632 014
 
-### DIGITAL FOOTPRINT:
+## DIGITAL FOOTPRINT
 * (+91) 9600013822
 * www.rameshaditya.wordpress.com
 * www.github.com/RameshAditya
 * www.linkedin.com/in/adityaramesh1998/
-
+-----------------------------------------------------------------------------------------------------------------
 ## EXPERIENCE
 
 *Algorithm Blogger* | **Algorithmic Memoirs** | *August 2017 - Present*
-* Currently host a blog “Algorithmic Memoirs” entirely devoted to the exploration of data structures and
-algorithms – www.rameshaditya.wordpress.com
+* Host a blog “Algorithmic Memoirs” entirely devoted to the exploration of data structures and
+algorithms – www.rameshaditya.wordpress.com, writing regularly on a weekly-biweekly basis.
 * Hosted and maintained with the intent of reinforcing my technical grasp of algorithms and data structures,
 spreading my insights and experiences, and connecting with like-minded experts, and groups.
 -----------------------------------------------------------------------------------------------------------------
@@ -42,9 +42,13 @@ updates or notifications, as part of a larger project of standardizing Zulip’s
 * Coursework: Computer Architecture & Organization; Data Structures & Algorithms; Database Management
 Systems; Discrete Mathematics & Graph Theory; Human Computer Interaction; Image Processing; Operating
 Systems; Object Oriented Programming; Statistics;
-* AISSCE: 472 on 500 (June 2016); SSLC: 10.0 on 10 (June 2014);
-* IIT-JEE Advanced: National Rank 14,576 from 1.2 million students. Top 1.2 %tile in Physics, Chemistry & Math
-* National Mathematics Talent Contest: Four time national finalist; Shortlisted for AMTI special training camp.
+
+*Tamil Nadu, IN* | **Padma Seshadri Bala Bhavan (PSBB)** | *November 2008 – May 2016*
+* AISSCE: 472 on 500 (June 2016) 
+* SSLC: 10.0 on 10 (June 2014)
+* IIT-JEE Advanced: National Rank 14,576 from 1.2 million students. Top 1.2 percentile nationally in Physics, Chemistry & Math
+* National Mathematics Talent Contest: Four time national finalist; Shortlisted for AMTI (Association of Mathematics Teachers in India) 
+special training camp.
 -----------------------------------------------------------------------------------------------------------------
 
 ## PROJECTS
@@ -53,7 +57,7 @@ database, and marks location on a world map, to ID locations of lost animal sigh
 Firebase, HTML, CSS, Google Maps API (Marker Clustering + Reverse Geocoding), Google Cloud Platform
 * **Web WhatsApp Bot** (July 2017). Designed a bot that automated the process of greeting selected contacts
 with “Good Morning” messages over Web WhatsApp on a daily basis. Python, Selenium
-* **XOBot** (June 2017). Designed an AI that never loses in a game of Tic-Tac-Toe (Noughts and Crosses) that
+* **Tic Tac Toe Bot** (June 2017). Designed an AI that never loses in a game of Tic-Tac-Toe (Noughts and Crosses) that
 plays in a deterministic manner and uses a backtracking, depth-optimized minimax algorithm. C++
 * **Dynamic Hybrid Data Grid** (March 2017). Developed a data structure that facilitated realtime R/W of data
 into a grid, and brought average search complexity down from O(n) to O(√n) by 2D maneuvering. C++
@@ -67,8 +71,10 @@ to remould waste plastic obtained from campus trash bins and sell as LEGO altern
 * **Media Club, PSBB Mirror, Chief Editor:** Was assigned the role of Chief Editor for my school’s Media Club.
 Corresponded with a local printing press (Makkal Kural), & managed 40 students in a high-stress environment to
 print newspapers reporting the events of the school’s Quadrennial Project.
+* **Quiz Club, PSBB, Core Member:** Award winning participations representing my school at inter-school quizzes, 
+and cultural events.
 -----------------------------------------------------------------------------------------------------------------
 
 ## Languages and Technologies
-* **Advanced:** C/C++ (STL); **Intermediate:** Python; MySQL; **Basic:** Git; R; Django; Vim;
+* **Advanced:** C/C++ (STL); **Intermediate:** Python; MySQL; **Basic:** Git; R; Django; Vim; Markdown;
 
