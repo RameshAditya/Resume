@@ -4,7 +4,7 @@ VIT University, Vellore - 632 014
 
 ## DIGITAL FOOTPRINT
 * (+91) 9600013822
-* www.rameshaditya.wordpress.com
+* www.rameshaditya.com
 * www.github.com/RameshAditya
 * www.linkedin.com/in/adityaramesh1998/
 -----------------------------------------------------------------------------------------------------------------
@@ -12,7 +12,7 @@ VIT University, Vellore - 632 014
 
 *Algorithm Blogger* | **Algorithmic Memoirs** | *August 2017 - Present*
 * Host a blog “Algorithmic Memoirs” entirely devoted to the exploration of data structures and
-algorithms – www.rameshaditya.wordpress.com, writing regularly on a weekly-biweekly basis.
+algorithms – www.rameshaditya.com, writing regularly on a weekly-biweekly basis.
 * Hosted and maintained with the intent of reinforcing my technical grasp of algorithms and data structures,
 spreading my insights and experiences, and connecting with like-minded experts, and groups.
 -----------------------------------------------------------------------------------------------------------------
@@ -27,7 +27,7 @@ feasibility of potential future industrial trends by interpreting insights from 
 * Zulip is an FOSS organization affiliated with Google’s Summer of Code, whose product is a group chat system.
 * Designed Django templates for Zulip’s emails to its users which notified them of relevant or important
 updates or notifications, as part of a larger project of standardizing Zulip’s look and feel.
-* Pull Request available at - https://github.com/zulip/zulip/pull/
+* Pull Request available at - https://github.com/zulip/zulip/pull/4790
 -----------------------------------------------------------------------------------------------------------------
 *Sport Programmer* | **Algorithmic Contest Platforms** | *November 2016 - Present*
 * Ranked at the top 3.06 percentile globally on HackerRank.
