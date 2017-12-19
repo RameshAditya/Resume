@@ -10,6 +10,10 @@ VIT University, Vellore - 632 014
 -----------------------------------------------------------------------------------------------------------------
 ## EXPERIENCE
 
+*Software Developer* | **Creation Labs** | *December 2017 - Present*
+* Creation Labs is a student-driven club of VIT that encourages students with a hacker/maker mentality to work on interesting projects such as building UAV Drones, Autonomous Cars and Mars Rovers, etc. 
+* Work with the Computer Science Team of the Mars Rover Division of Creation Labs – Team RoverX, a team that is  building a Mars Rover, end-to-end for international competitions like the ERC and the URC.
+-----------------------------------------------------------------------------------------------------------------
 *Algorithm Blogger* | **Algorithmic Memoirs** | *August 2017 - Present*
 * Host a blog “Algorithmic Memoirs” entirely devoted to the exploration of data structures and
 algorithms – www.rameshaditya.com, writing regularly on a weekly-biweekly basis.
@@ -30,18 +34,16 @@ updates or notifications, as part of a larger project of standardizing Zulip’s
 * Pull Request available at - https://github.com/zulip/zulip/pull/4790
 -----------------------------------------------------------------------------------------------------------------
 *Sport Programmer* | **Algorithmic Contest Platforms** | *November 2016 - Present*
-* Ranked at the top 3.06 percentile globally on HackerRank.
-* Ranked at the top 3.45 percentile globally on CodeChef.
-* Ranked at the top 3.58 percentile globally on Sphere Online Judge.
+* Ranked at the top 3.06 percentile globally on HackerRank. - hackerrank.com/Aditya_Ramesh
+* Ranked at the top 3.45 percentile globally on CodeChef. - codechef.com/users/an_avid_coder
+* Ranked at the top 3.58 percentile globally on Sphere Online Judge. - spoj.com/users/aditya_ramesh
 * Profile links and submissions - www.github.com/RameshAditya/Competitive-Programming
 -----------------------------------------------------------------------------------------------------------------
 
 ## EDUCATION
 *Tamil Nadu, IN* | **Vellore Institute of Technology** | *June 2016 – June 2020*
-* B. Tech. in Computer Science & Engineering, CGPA: 9.58 out of 10.
-* Coursework: Computer Architecture & Organization; Data Structures & Algorithms; Database Management
-Systems; Discrete Mathematics & Graph Theory; Human Computer Interaction; Image Processing; Operating
-Systems; Object Oriented Programming; Statistics;
+* B. Tech. in Computer Science & Engineering, CGPA: 9.56 out of 10.
+* Coursework: Artificial Intelligence; Algorithms; Computer Architecture; Databases; Discrete Mathematic; Image Processing; Internet of Things; Operating Systems; OOPS; Statistics; UI/UX Design;
 
 *Tamil Nadu, IN* | **Padma Seshadri Bala Bhavan (PSBB)** | *November 2008 – May 2016*
 * AISSCE: 472 on 500 (June 2016) 
@@ -52,6 +54,9 @@ special training camp.
 -----------------------------------------------------------------------------------------------------------------
 
 ## PROJECTS
+* **Diction-based Text Analytics for Speaker Prediction** (Dec 2017) Developed an algorithm that trains on a set of conversations, mapping idiolects of speakers to probabilistically predict the speaker of the unseen data. | Python 
+* **Sherlock Holmes & Markov Chains** (Nov 2017) Implemented a markov chain, trained on Sherlock Holmes novels, predicted new paragraphs of content and tweeted the generated content via a Twitter Bot. | Python, Tweepy 
+* **Light Me Up** (Nov 2017 - Present) Implemented an emotion recognition algorithm with accuracy of 78% & changed the ambient lighting color of the room using an Arduino Uno. | OpenCV, Python, Arduino 
 * **PetPal (HackHarvard’17)** (October 2017). Android app that sends image, location credentials to Firebase 
 database, and marks location on a world map, to ID locations of lost animal sightings. Android, Node.js, JavaScript, 
 Firebase, HTML, CSS, Google Maps API (Marker Clustering + Reverse Geocoding), Google Cloud Platform
