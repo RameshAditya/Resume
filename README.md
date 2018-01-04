@@ -4,6 +4,7 @@ VIT University, Vellore - 632 014
 
 ## DIGITAL FOOTPRINT
 * (+91) 9600013822
+* mailto:ramesh.aditya@gmail.com
 * www.rameshaditya.com
 * www.github.com/RameshAditya
 * www.linkedin.com/in/adityaramesh1998/
