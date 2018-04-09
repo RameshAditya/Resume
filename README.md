@@ -1,9 +1,9 @@
 # ADITYA RAMESH
 L-Block, Men’s Hostel,
-VIT University, Vellore - 632 014
+Vellore Institute of Technology, Vellore - 632 014
 
 ## DIGITAL FOOTPRINT
-* (+91) 9600013822
+* (+91) 9600013822 / (+91) 9600103743
 * ramesh.aditya@gmail.com
 * www.rameshaditya.com
 * www.github.com/RameshAditya
@@ -11,6 +11,20 @@ VIT University, Vellore - 632 014
 -----------------------------------------------------------------------------------------------------------------
 ## EXPERIENCE
 
+*Algorithmic Blogger* | **Topcoder, Inc** | *April 2018 - Present*
+* Topcoder is a platform (topcoder.com) that enables companies & clients like IBM, NASA, Amazon to crowdsource their challenges to developers. 
+
+* Topcoder is also a well-known platform (1 million+ users) in the field of algorithms, with frequent algorithmic contests, such as the annual Topcoder Open and bimonthly Single Round Matches. It defined the algorithmic contest space nearly a decade before platforms like CodeForces, CodeChef, HackerRank, and HackerEarth. 
+
+* I am part of the algorithmic blogging team, at Topcoder and my responsibilities include explaining powerful algorithms, and creative approaches to interesting or tricky problems.
+-----------------------------------------------------------------------------------------------------------------
+*Algorithmic Problem Setter* | **Association for Computing Machinery, VIT** | *January 2018 - Present*
+* As part of the ACM Chapter of VIT, I am part of the team that tests the college's student's algorithmic skills. 
+
+* My responsibilities include setting challenging algorithmic problem statements with efficient solutions, and developing test cases to test contestant's algorithms against the expected algorithm's output in terms of accuracy and efficiency, for every intracollege programming contest. 
+
+* List of my original problems is available at - https://rameshaditya.github.io/algorithmic-memoirs/original-problems.html
+-----------------------------------------------------------------------------------------------------------------
 *Software Developer* | **Creation Labs** | *December 2017 - Present*
 * Creation Labs is a student-driven club of VIT that encourages students with a hacker/maker mentality to work on interesting projects such as building UAV Drones, Autonomous Cars and Mars Rovers, etc. 
 * Work with the Computer Science Team of the Mars Rover Division of Creation Labs – Team RoverX, a team that is  building a Mars Rover, end-to-end for international competitions like the ERC and the URC.
@@ -55,16 +69,28 @@ special training camp.
 -----------------------------------------------------------------------------------------------------------------
 
 ## PROJECTS
-* **Diction-based Text Analytics for Speaker Prediction** (Dec 2017) Developed an algorithm that trains on a set of conversations, mapping idiolects of speakers to probabilistically predict the speaker of the unseen data. | Python 
+* **Code Faster** (April 2018) Developed a sublime text 3 plugin that used the codeforces API to scrape an algorithmic problem statement of an ongoing contest off the website (www.codeforces.com) and directly paste it into the text editor, for convenience and speed. | Python, JSON, BeautifulSoup
+
+* **I love XKCD** (April 2018) Developed a slack bot that scraped comics off the XKCD Comics website and sent XKCD comics to a slack channel when requested. | Python, JSON 
+
+* **Ping Lock** (March 2018) Designed an IoT system for intruder detection using ultrasonic sensors and alerted the user via the Slack App using their API. | Python, Arduino
+
+* **Diction-based Text Analytics for Speaker Prediction** (Feb 2018) Developed an algorithm that trains on a set of conversations, mapping idiolects of speakers to probabilistically predict the speaker of the unseen data. | Python 
+
 * **Sherlock Holmes & Markov Chains** (Nov 2017) Implemented a markov chain, trained on Sherlock Holmes novels, predicted new paragraphs of content and tweeted the generated content via a Twitter Bot. | Python, Tweepy 
+
 * **Light Me Up** (Nov 2017 - Present) Implemented an emotion recognition algorithm with accuracy of 78% & changed the ambient lighting color of the room using an Arduino Uno. | OpenCV, Python, Arduino 
+
 * **PetPal (HackHarvard’17)** (October 2017). Android app that sends image, location credentials to Firebase 
 database, and marks location on a world map, to ID locations of lost animal sightings. Android, Node.js, JavaScript, 
 Firebase, HTML, CSS, Google Maps API (Marker Clustering + Reverse Geocoding), Google Cloud Platform
+
 * **Web WhatsApp Bot** (July 2017). Designed a bot that automated the process of greeting selected contacts
 with “Good Morning” messages over Web WhatsApp on a daily basis. Python, Selenium
+
 * **Tic Tac Toe Bot** (June 2017). Designed an AI that never loses in a game of Tic-Tac-Toe (Noughts and Crosses) that
 plays in a deterministic manner and uses a backtracking, depth-optimized minimax algorithm. C++
+
 * **Dynamic Hybrid Data Grid** (March 2017). Developed a data structure that facilitated realtime R/W of data
 into a grid, and brought average search complexity down from O(n) to O(√n) by 2D maneuvering. C++
 -----------------------------------------------------------------------------------------------------------------
@@ -72,15 +98,18 @@ into a grid, and brought average search complexity down from O(n) to O(√n) by 
 ## ADDITIONAL EXPERIENCE AND AWARDS
 * **National Programming Aptitude Test, 100/100:** Solved 8 out of 8 questions, in the NPAT conducted by ACM,
 hosted by NPTEL and sponsored by Google.
+
 * **Make-a-thon, The Blueprints Club, 1st Place:** Won the TBC Make-a-thon by pitching a business model & MVP
 to remould waste plastic obtained from campus trash bins and sell as LEGO alternatives.
+
 * **Media Club, PSBB Mirror, Chief Editor:** Was assigned the role of Chief Editor for my school’s Media Club.
 Corresponded with a local printing press (Makkal Kural), & managed 40 students in a high-stress environment to
 print newspapers reporting the events of the school’s Quadrennial Project.
+
 * **Quiz Club, PSBB, Core Member:** Award winning participations representing my school at inter-school quizzes, 
 and cultural events.
 -----------------------------------------------------------------------------------------------------------------
 
 ## Languages and Technologies
-* **Advanced:** C/C++ (STL); **Intermediate:** Python; MySQL; **Basic:** Git; R; Django; Vim; Markdown;
+* **Advanced:** C/C++ (STL); **Intermediate:** Python; MySQL; MATLAB; **Basic:** Git; R; Django; Vim; Markdown;
 
