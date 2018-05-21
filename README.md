@@ -11,6 +11,11 @@ Vellore Institute of Technology, Vellore - 632 014
 -----------------------------------------------------------------------------------------------------------------
 ## EXPERIENCE
 
+*Software Engineering Intern* | **Cisco** | *May 2018 - Present*
+* Currently a software engineering intern at Cisco
+
+* I am working in the WAAS Product Line which provides hardware and software solutions for WAN Optimization.
+-----------------------------------------------------------------------------------------------------------------
 *Algorithmic Blogger* | **Topcoder, Inc** | *April 2018 - Present*
 * Topcoder is a platform (topcoder.com) that enables companies & clients like IBM, NASA, Amazon to crowdsource their challenges to developers. 
 
