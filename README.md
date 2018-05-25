@@ -1,5 +1,5 @@
 # ADITYA RAMESH
-L-Block, Men’s Hostel,
+D-Block, Men’s Hostel,
 Vellore Institute of Technology, Vellore - 632 014
 
 ## DIGITAL FOOTPRINT
@@ -14,7 +14,7 @@ Vellore Institute of Technology, Vellore - 632 014
 *Software Engineering Intern* | **Cisco** | *May 2018 - Present*
 * Currently a software engineering intern at Cisco
 
-* I am working in the WAAS Product Line which provides hardware and software solutions for WAN Optimization.
+* I am working in the WAAS Product Line which provides hardware and software solutions for WAN Optimization using efficient data redundancy elimination techniques and intelligent caching mechanisms.
 -----------------------------------------------------------------------------------------------------------------
 *Algorithmic Blogger* | **Topcoder, Inc** | *April 2018 - Present*
 * Topcoder is a platform (topcoder.com) that enables companies & clients like IBM, NASA, Amazon to crowdsource their challenges to developers. 
@@ -116,5 +116,5 @@ and cultural events.
 -----------------------------------------------------------------------------------------------------------------
 
 ## Languages and Technologies
-* **Advanced:** C/C++ (STL); **Intermediate:** Python; MySQL; MATLAB; **Basic:** Git; R; Django; Vim; Markdown;
+* **Advanced:** C/C++ (STL); **Intermediate:** Python; MySQL; MATLAB; HTML/CSS; **Basic:** Git; JavaScript; R; Markdown;
 
