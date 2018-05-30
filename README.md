@@ -62,7 +62,7 @@ updates or notifications, as part of a larger project of standardizing Zulip’s
 
 ## EDUCATION
 *Tamil Nadu, IN* | **Vellore Institute of Technology** | *June 2016 – June 2020*
-* B. Tech. in Computer Science & Engineering, CGPA: 9.56 out of 10.
+* B. Tech. in Computer Science & Engineering, CGPA: 9.42 out of 10.
 * Coursework: Artificial Intelligence; Algorithms; Computer Architecture; Databases; Discrete Mathematic; Image Processing; Internet of Things; Operating Systems; OOPS; Statistics; UI/UX Design;
 
 *Tamil Nadu, IN* | **Padma Seshadri Bala Bhavan (PSBB)** | *November 2008 – May 2016*
