@@ -101,6 +101,8 @@ into a grid, and brought average search complexity down from O(n) to O(√n) by 
 -----------------------------------------------------------------------------------------------------------------
 
 ## ADDITIONAL EXPERIENCE AND AWARDS
+* **Hackathon Guest Speaker:** Recieved an invitation to talk, mentor and share my experience and knowledge to other college students, at the RethinkPassion Hackathon. I gave a talk on data structures and algorithms and focussed on dynamic programming and its applications and also initiated all participants with the nuances of programming competitions.  
+
 * **National Programming Aptitude Test, 100/100:** Solved 8 out of 8 questions, in the NPAT conducted by ACM,
 hosted by NPTEL and sponsored by Google.
 
