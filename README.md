@@ -74,6 +74,8 @@ special training camp.
 -----------------------------------------------------------------------------------------------------------------
 
 ## PROJECTS
+* **Ducky** (June 2018) Developed a Chrome extension that brings to the browser a digital rubber duck that has an alarm, quick links to developer-friendly websites, and a Google Search Bar built into it. The duck also squacks when interacted with.
+
 * **Code Faster** (April 2018) Developed a sublime text 3 plugin that used the codeforces API to scrape an algorithmic problem statement of an ongoing contest off the website (www.codeforces.com) and directly paste it into the text editor, for convenience and speed. | Python, JSON, BeautifulSoup
 
 * **I love XKCD** (April 2018) Developed a slack bot that scraped comics off the XKCD Comics website and sent XKCD comics to a slack channel when requested. | Python, JSON 
